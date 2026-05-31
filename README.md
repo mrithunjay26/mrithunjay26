@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I Mrithunjay, a software developer and freshman studying Informatics at the University of Washington. My main interest is building software that turns messy business, education, and institutional workflows into clear products people can actually use. I am especially interested in AI/ML applications where models are not just demos, but part of a useful workflow: admissions tools, financial systems, student platforms, image models, automation dashboards, and decision-support products.</p>
+<p align="left"> I am Mrithunjay, a software developer and freshman studying Informatics at the University of Washington. My main interest is building software that turns messy business, education, and institutional workflows into clear products people can actually use. I am especially interested in AI/ML applications where models are not just demos, but part of a useful workflow: admissions tools, financial systems, student platforms, image models, automation dashboards, and decision-support products.</p>
 
 ###
 
