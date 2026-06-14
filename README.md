@@ -1,99 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Mrithunjay Tanish Shanmuganand
 
-###
+Software developer and incoming Informatics student at the University of Washington, focused on education technology, workflow automation, applied AI/ML, and full-stack products that solve operational problems for real users.
 
-<p align="left"> I am Mrithunjay, a software developer and freshman studying Informatics at the University of Washington. My main interest is building software that turns messy business, education, and institutional workflows into clear products people can actually use. I am especially interested in AI/ML applications where models are not just demos, but part of a useful workflow: admissions tools, financial systems, student platforms, image models, automation dashboards, and decision-support products.</p>
+I like building at the intersection of engineering and product strategy: understand the messy workflow, design the usable system, ship the software, and measure whether it helped.
 
-###
+## Portfolio
 
-<h2 align="left">About me</h2>
+- Website: [mrithunjay.com](https://mrithunjay.com)
+- GitHub: [github.com/mrithunjay26](https://github.com/mrithunjay26)
 
-###
+## Featured Work
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning AI neural networks<br>🎯 Goals: fostering value through software development<br>🎲 Fun fact: I've got knack for riddles</p>
+| Project | What it demonstrates |
+| --- | --- |
+| [EssayPromptsAPI](https://github.com/mrithunjay26/EssayPromptsAPI) | FastAPI, Selenium scraping, MongoDB caching, API-key auth, education-data tooling |
+| [AlzheimerDetectionModelJS](https://github.com/mrithunjay26/AlzheimerDetectionModelJS) | TensorFlow.js model export, browser-based image classification, applied ML prototyping |
+| [ModelStreetSegmentation](https://github.com/mrithunjay26/ModelStreetSegmentation) | Browser-based semantic segmentation, canvas visualization, computer vision deployment |
+| [StoreHighlightedText](https://github.com/mrithunjay26/StoreHighlightedText) | Google Apps Script, Docs add-on UI, user-property storage workflow |
+| StuImpact and OpenPath | Student opportunity products, nonprofit education tooling, product leadership |
 
-###
+## Engineering Interests
 
-<h2 align="left">I code with</h2>
+- Full-stack product engineering with React, Next.js, Flask, FastAPI, and MongoDB
+- Applied AI/ML systems that sit inside useful workflows rather than isolated demos
+- Education technology, admissions tooling, nonprofit platforms, and student opportunity systems
+- Workflow automation for business and institutional operations
+- Cloud deployment, CI/CD, and practical reliability improvements
 
-###
+## Technical Toolkit
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-</div>
+| Area | Tools |
+| --- | --- |
+| Languages | Python, JavaScript, TypeScript, Java, C# |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Flask, FastAPI, REST APIs, MongoDB |
+| AI/ML and data | TensorFlow.js, pandas, scikit-learn, image models |
+| Cloud and tooling | Azure, Firebase, Git, GitHub Actions, CI/CD |
+| Product areas | Education platforms, automation dashboards, admissions workflows, student tools |
 
-###
+## Experience Snapshot
+
+- Software Engineer Intern at Kollegio AI, selected from a large applicant pool to build education-technology features with full-stack teams
+- Full Stack Engineer Intern at Cledge, working on admissions and financial-aid workflow tools
+- Founder and President of StuImpact, a student-led nonprofit connecting students with opportunities, mentorship, and education programs
+- UW SEAL software project lead on reimbursement workflow automation and student finance systems
+
+## What I Am Building Toward
+
+I am especially interested in internship teams working on product engineering, AI-assisted workflows, backend systems, data-driven education tools, and automation platforms. I care about software that gets used after the demo.
